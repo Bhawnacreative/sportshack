@@ -1,0 +1,14 @@
+{
+  "/(desk)/coach/matches/page": "/coach/matches",
+  "/(desk)/coach/page": "/coach",
+  "/(desk)/coach/players/page": "/coach/players",
+  "/(desk)/coach/sessions/[id]/page": "/coach/sessions/[id]",
+  "/(desk)/coach/sessions/page": "/coach/sessions",
+  "/(desk)/player/page": "/player",
+  "/(desk)/scout/page": "/scout",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/icon.svg/route": "/icon.svg",
+  "/login/page": "/login",
+  "/page": "/"
+}

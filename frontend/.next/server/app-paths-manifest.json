@@ -1,0 +1,14 @@
+{
+  "/(desk)/coach/matches/page": "app/(desk)/coach/matches/page.js",
+  "/(desk)/coach/page": "app/(desk)/coach/page.js",
+  "/(desk)/coach/players/page": "app/(desk)/coach/players/page.js",
+  "/(desk)/coach/sessions/[id]/page": "app/(desk)/coach/sessions/[id]/page.js",
+  "/(desk)/coach/sessions/page": "app/(desk)/coach/sessions/page.js",
+  "/(desk)/player/page": "app/(desk)/player/page.js",
+  "/(desk)/scout/page": "app/(desk)/scout/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js"
+}
