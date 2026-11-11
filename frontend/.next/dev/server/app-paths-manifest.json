@@ -1,6 +1,0 @@
-{
-  "/(desk)/coach/page": "app/(desk)/coach/page.js",
-  "/(desk)/coach/players/page": "app/(desk)/coach/players/page.js",
-  "/login/page": "app/login/page.js",
-  "/page": "app/page.js"
-}
