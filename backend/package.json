@@ -1,3 +1,4 @@
+
 {
   "name": "@dumka/backend",
   "version": "0.1.0",
@@ -5,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "build": "tsc -p tsconfig.json",
+    "build": "tsc -p tsconfig.json && node --input-type=module -e \"import { copyFileSync } from 'node:fs'; copyFileSync('package.json', 'dist/package.json')\"",
     "start": "node dist/index.js",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
