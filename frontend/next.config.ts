@@ -1,3 +1,4 @@
+
 import type { NextConfig } from "next";
 
 const backendUrl = (
@@ -15,6 +16,12 @@ const nextConfig: NextConfig = {
     },
   },
   async rewrites() {
+    // Vercel Services handles API routing in production.
+    if (process.env.VERCEL) {
+      return [];
+    }
+
+    // Keep the local development API proxy.
     return [
       {
         source: "/api/:path*",
