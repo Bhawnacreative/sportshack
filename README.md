@@ -1,4 +1,4 @@
-# Dumka Academy Desk
+sports Academy Desk
 
 A working sports-academy desk for **coaches, players, and scouts**. Track attendance, record matches, and decide who is ready for a trial — with a separate Next.js frontend and Express/MongoDB API.
 
