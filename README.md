@@ -2,7 +2,7 @@ sports Academy Desk
 
 A working sports-academy desk for **coaches, players, and scouts**. Track attendance, record matches, and decide who is ready for a trial — with a separate Next.js frontend and Express/MongoDB API.
 
-- **Live demo:** _pending deployment_
+- **Live demo:**https://sportshack-kohl.vercel.app/login
 - **Repository:** `vibe-coding-challenge-2-0-okk`
 
 ## Structure
